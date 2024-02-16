@@ -5,9 +5,9 @@ fimap is a little python tool which can find, prepare, audit, exploit and even g
 
 Originally, this tool was created by [this very awesome fellow](https://tha-imax.de/git/root/fimap/tree/master) but there hasn't been a lot of movement on the project since porting to github.
 
-### Update: 2019
+### Update: 2024
 
-I'm going to try port the project to python3. This might be a wasted effort but I'll give it a crack. Feel free to chip in.
+Now works with Python3. What doesnt work? Plugins. Leave the plugins dir empty.
 
 * * *
 ## Requirements
